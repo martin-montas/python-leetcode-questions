@@ -29,11 +29,6 @@ class Solution:
         return rest
 
 
-
-
-
-
-
 s = Solution()
 
 n = 38
