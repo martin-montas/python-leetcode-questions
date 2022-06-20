@@ -31,7 +31,7 @@ class Solution:
 
 s = Solution()
 
-n = 38
+n = 1
 
 x = s.climbStairs(n)
 print(x)
